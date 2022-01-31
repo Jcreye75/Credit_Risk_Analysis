@@ -76,5 +76,5 @@ The results of each of the six machine learning modelsare listed below. It inclu
 - BA: 0.9254
 
 ## Summary:
-After analyzing the results of each model, we can confirm that the Easy Ensemble AdaBoost Classifier Model is the one which has the better indicators for Credit Risk Analysis. Precision has the highest result for High risk with 0.07, meanwhile others do not exceed of 0.04. On the Recall it has the Percentaje for High and Low risk on levels over 90%, meanwhile the othe models round on 60%. Finally the balance Accuracy is almost 100% on 0.9254, against the other models whic do not exceed 79%.
+After analyzing the results of each model, we can confirm that the Easy Ensemble AdaBoost Classifier Model is the one which has the better indicators for Credit Risk Analysis. Precision has the highest result for High risk with 0.07, meanwhile others do not exceed of 0.04. On the Recall part, it has percentajes for High and Low risk on levels over 90%, meanwhile the other models round on 60%. Finally the balance accuracy is almost 100% on 0.9254, against the other models which do not exceed 79%.
 
